@@ -1,7 +1,7 @@
 For my Website, its gonna be a activite advisor
 the point of my website is to help you find things to do with your time, and what activites are in season right now and what pop culture media is trending right now
-1: feature things that pair well with diffrent activites.
-2: select a activite for a slot of time
-3: view certain activites and how long they take and score rating 
+1: if the user selects a activity then an optional box will appear on the screen that can help maximize the activity(ex: if i pick walking as a activity then an optional box will appear that offers some audiobooks or the weekends new album as a side activity while i perform this activity)
+2: the user can select a activity for a slot of time in there schedule
+3: view certain activites on the browse media page, if the user clicks on a indivual activity box then info regarding the activity and estimations on how long it will take and score ratings will appear.
 4: pages: browse media page, reccomeded activies page,Home page
 DataBase: stores users schedule info 
