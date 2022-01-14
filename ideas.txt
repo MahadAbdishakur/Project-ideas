@@ -5,3 +5,5 @@ the point of my website is to help you find things to do with your time, and wha
 3: view certain activites on the browse media page, if the user clicks on a indivual activity box then info regarding the activity and estimations on how long it will take and score ratings will appear.
 4: pages: browse media page, reccomeded activies page,Home page
 DataBase: stores users schedule info 
+DbDesigner Link: https://dbdesigner.page.link/oy4ef7Psc7sqz4GU7
+Figma Website OutLine concept: https://www.figma.com/file/fd19z5k2sBnieyeCLWtGKf/speciliization-capstone?node-id=0%3A1
