@@ -1,0 +1,7 @@
+For my Website, its gonna be a activite advisor
+the point of my website is to help you find things to do with your time, and what activites are in season right now and what pop culture media is trending right now
+1: feature things that pair well with diffrent activites.
+2: select a activite for a slot of time
+3: view certain activites and how long they take and score rating 
+4: pages: browse media page, reccomeded activies page,Home page
+DataBase: stores users schedule info 
